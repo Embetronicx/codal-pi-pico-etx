@@ -50,7 +50,7 @@
             "branch": "8590ef14a3d2c11838795ad8b19f1920700b86a6",
             "name": "codal-rp2040",
             "type": "git",
-            "url": "https://github.com/lancaster-university/codal-rp2040"
+            "url": "https://github.com/irshad-js/codal-rp2040"
         }
     ],
     "linker_flags": "",
