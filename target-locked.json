@@ -47,7 +47,7 @@
             "url": "https://github.com/lancaster-university/codal-core"
         },
         {
-            "branch": "1dc42cf00b5064354e0f8bbc06696a793f4728af",
+            "branch": "05eddb115216e225b0df543216ee3b3eaa1256c3",
             "name": "codal-rp2040",
             "type": "git",
             "url": "https://github.com/irshad-js/codal-rp2040"
