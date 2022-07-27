@@ -53,7 +53,7 @@
         },
         {
             "name":"codal-rp2040",
-            "url":"https://github.com/irshad-js/codal-rp2040",
+            "url":"https://github.com/Embetronicx/codal-rp2040-etx",
             "branch":"master",
             "type":"git"
         }
